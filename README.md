@@ -79,18 +79,18 @@ The Elbow Method and Silhouette Score across K = 2–10 both pointed to **K = 5*
 | | |
 |---|---|
 | **Distribution of Age, Income & Spending Score** | ![Distribution](Customers_Segmentation/Images/plot1_distribution_age_income_spending.png) |
-| **Customer Count by Gender** | ![Gender Count](Images/plot2_customercount_gender.png) |
-| **Customer Count by Marital Status & Education** | ![Marital/Education Count](Images/plot3_customercount_marital_education.png) |
-| **Correlation Heatmap** | ![Correlation](Images/plot4_correlation.png) |
-| **Pairwise Relationships** | ![Pairwise](Images/plot5_pairwise.png) |
-| **Annual Income vs Spending Score** | ![Income vs Spending](Images/plot6_annualincome_spendingscore.png) |
-| **Elbow Method & Silhouette Score (Optimal K)** | ![Elbow/Silhouette](Images/plot7_cluster.png) |
-| **Per-Cluster Silhouette Diagnostic** | ![Silhouette Diagnostic](Images/plot8_Silhouette.png) |
-| **K-Means Clusters (Income vs Spending Score)** | ![Clusters](Images/plot9_customer_segmentation.png) |
-| **PCA Projection of Clusters** | ![PCA](Images/plot10_customer_segmentation_pca.png) |
-| **t-SNE Projection of Clusters** | ![t-SNE](Images/plot11_customer_segmentation_t-sne.png) |
-| **Cluster Profile Comparison (Avg Income/Spending/Age)** | ![Cluster Profile](Images/plot12_customer_segmentation_pca.png) |
-| **Final Labeled Customer Segments** | ![Final Segments](Images/plot13_final_customer_segmentation.png) |
+| **Customer Count by Gender** | ![Gender Count](Customers_Segmentation/Images/plot2_customercount_gender.png) |
+| **Customer Count by Marital Status & Education** | ![Marital/Education Count](Customers_Segmentation/Images/plot3_customercount_marital_education.png) |
+| **Correlation Heatmap** | ![Correlation](Customers_Segmentation/Images/plot4_correlation.png) |
+| **Pairwise Relationships** | ![Pairwise](Customers_Segmentation/Images/plot5_pairwise.png) |
+| **Annual Income vs Spending Score** | ![Income vs Spending](Customers_Segmentation/Images/plot6_annualincome_spendingscore.png) |
+| **Elbow Method & Silhouette Score (Optimal K)** | ![Elbow/Silhouette](Customers_Segmentation/Images/plot7_cluster.png) |
+| **Per-Cluster Silhouette Diagnostic** | ![Silhouette Diagnostic](Customers_Segmentation/Images/plot8_Silhouette.png) |
+| **K-Means Clusters (Income vs Spending Score)** | ![Clusters](Customers_Segmentation/Images/plot9_customer_segmentation.png) |
+| **PCA Projection of Clusters** | ![PCA](Customers_Segmentation/Images/plot10_customer_segmentation_pca.png) |
+| **t-SNE Projection of Clusters** | ![t-SNE](Customers_Segmentation/Images/plot11_customer_segmentation_t-sne.png) |
+| **Cluster Profile Comparison (Avg Income/Spending/Age)** | ![Cluster Profile](Customers_Segmentation/Images/plot12_customer_segmentation_pca.png) |
+| **Final Labeled Customer Segments** | ![Final Segments](Customers_Segmentation/Images/plot13_final_customer_segmentation.png) |
 
 ## 7. Key Findings and Key Recommendations
 
