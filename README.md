@@ -78,7 +78,7 @@ The Elbow Method and Silhouette Score across K = 2–10 both pointed to **K = 5*
 
 | | |
 |---|---|
-| **Distribution of Age, Income & Spending Score** | ![Distribution](Images/plot1_distribution_age_income_spending.png) |
+| **Distribution of Age, Income & Spending Score** | ![Distribution](Customers_Segmentation/Images/plot1_distribution_age_income_spending.png) |
 | **Customer Count by Gender** | ![Gender Count](Images/plot2_customercount_gender.png) |
 | **Customer Count by Marital Status & Education** | ![Marital/Education Count](Images/plot3_customercount_marital_education.png) |
 | **Correlation Heatmap** | ![Correlation](Images/plot4_correlation.png) |
